@@ -157,7 +157,7 @@ Using grid-auto-flow and grid-auto-columns to create flexible grid columns
 }
 ```
 
-accessible nav using data-attributes and aria
+Accessible nav using data-attributes and aria
 
 ```js
 const navToggle = document.querySelector(".mobile-nav-toggle"),
